@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aaronc2lloyd
+- 👀 I’m interested in understanding Software internals and building quality products and services.
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on C/C++ projects
